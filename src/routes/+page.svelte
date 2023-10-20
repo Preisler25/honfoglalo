@@ -7,6 +7,7 @@
 </svelte:head>
 
 <main class="bg-gray-800 min-h-screen text-white">
+  <!-- sziasztok -->
   <h1 id="title" class="font-black text-center text-6xl p-4 shadow-lg">Honfoglaló</h1>
   <div class="h-full  grid grid-rows-4 grid-cols-1 md:grid-cols-2 md:grid-rows-2 gap-3 mx-3">
     <Card title="Mi az a honfoglaló?" desc="loremlorem preisler lorem lorem ipsum preisler lorem ipsum gaming" />
